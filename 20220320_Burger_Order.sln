@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20220320_Burger_Order", "20220320_Burger_Order\20220320_Burger_Order.csproj", "{FF867428-14E2-470B-BDCE-7152E0C207A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF867428-14E2-470B-BDCE-7152E0C207A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF867428-14E2-470B-BDCE-7152E0C207A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF867428-14E2-470B-BDCE-7152E0C207A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF867428-14E2-470B-BDCE-7152E0C207A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE1924C-A0FB-41CC-8579-99750E14B438}
+	EndGlobalSection
+EndGlobal
